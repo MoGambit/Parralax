@@ -33,7 +33,6 @@ header {
 }
 
 header nav {
-    background-color:transparent;
     max-width: 1400px;
     margin: 0 auto;
     padding: 0 2rem;
@@ -137,7 +136,7 @@ main {
     width: 1900px;
     top: calc(50% - 100px);
     left: calc(50% + 300px);
-}
+  }
 
 .mountain-10 {
     position: absolute;
@@ -150,7 +149,7 @@ main {
 .fog-6 {
     position: absolute;
     z-index: 4;
-    width: 1610px;
+    width: 3000px;
     top: calc(50% + 85px);
     left: calc(50% + 10px);
 }
@@ -184,8 +183,8 @@ main {
 .mountain-7 {
     position: absolute;
     z-index: 8;
-    width: 538px;
-    top: calc(50% + 123px);
+    width: 638px;
+    top: calc(50% + 225px);
     left: calc(50% + 305px);
 }
 
@@ -224,8 +223,8 @@ main {
 .fog-4 {
     position: absolute;
     z-index: 11;
-    width: 590px;
-    top: calc(50% + 223px);
+    width: 650px;
+    top: calc(50% + 273px);
     left: calc(50% - 60px);
 }
 
@@ -268,7 +267,7 @@ main {
     position: absolute;
     z-index: 16;
     width: 1560px;
-    top: calc(50% + 147px);
+    top: calc(50% + 210px);
     left: calc(50% - 30px);
 }
 
@@ -311,8 +310,8 @@ main {
 .fog-1 {
     position: absolute;
     z-index: 21;
-    width: 1600px;
-    top: calc(100% - 355px);
+    width: 2300px;
+    top: calc(100% - 255px);
     left: 50%;
 }
 
